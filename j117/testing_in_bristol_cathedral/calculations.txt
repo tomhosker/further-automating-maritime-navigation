@@ -1,0 +1,8 @@
+Height of nave = 52ft
+Length of nave = 125ft
+Height of eye = c. 4ft
+Distance from west door = 6ft
+
+Therefore angle A = arctan((52-4)/(125-6))
+                  = arctan(48/119)
+                  = 21.9672434... degrees

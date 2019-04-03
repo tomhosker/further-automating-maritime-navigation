@@ -1,0 +1,1 @@
+The hardware, as shown in the attached photograph, running the code in the attached .ino file, is able to find the horizon, as shown in the attached screenshot: thus fulfilling the requirements of J117 version 1.0.
